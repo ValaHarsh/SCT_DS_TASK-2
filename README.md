@@ -49,5 +49,5 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/yourusername/Titanic-Survival-Prediction.git
 
-2. **Navigate to the project folder**:
-cd Titanic-Survival-Prediction
+## Usage
+After running the Jupyter notebook, follow the instructions inside the notebook to understand how the data is cleaned, visualized, and used for training the machine learning model. You can also change the dataset or parameters to explore different results.
