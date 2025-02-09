@@ -61,6 +61,7 @@ The dataset used is from Kaggle and contains information about Titanic passenger
 
 ## Visualizations 📊✨
 In this project, several types of visualizations were created:
+![Image](https://github.com/user-attachments/assets/3ba19fe5-c05c-49b4-b4df-4849eb39423a)
 - **Bar plots 📊** for categorical data (e.g., sex, passenger class).
 - **Histograms 📈** for continuous data (e.g., age, fare).
 - **Heatmaps 🔥** to observe correlations between features.
